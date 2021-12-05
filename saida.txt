@@ -1,0 +1,11 @@
+Codigo   Regiao     Tipo   Moradores   Interesse     Rede    ConMes    ConMor
+AB123X1A  Aroeira   Casa          3   Indiferente     Nao      2.1      0.68
+AB123X3C  Miramar   Apto          1      Positivo     Nao      2.0      2.01
+AB123X3A  Miramar   Casa          5      Positivo     Nao      3.1      0.63
+AB123X1C  Aroeira   Apto          5      Positivo     Nao      2.0      0.40
+AB123X2A Visconde   Casa          1   Indiferente     Nao      1.0      1.02
+AB123X1A  Aroeira   Casa          2      Negativo     Nao      2.0      1.01
+AB123X2A Visconde   Casa          5   Indiferente     Nao      2.0      0.40
+AB123X2A Visconde   Casa          4      Negativo     Nao      1.0      0.26
+AB123X1C  Aroeira   Apto          1      Negativo     Nao      3.0      3.01
+AB123X3C  Miramar   Apto          5   Indiferente     Nao      1.0      0.20
